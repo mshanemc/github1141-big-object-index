@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Index xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Number_Field_Index</fullName>
+    <fields>
+        <name>Number_Field__c</name>
+        <sortDirection>ASC</sortDirection>
+    </fields>
+    <label>Number Field Index</label>
+</Index>
